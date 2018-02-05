@@ -1,9 +1,9 @@
-package pl.com.maciejko.swoosh
+package pl.com.maciejko.swoosh.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_welcome.*
+import pl.com.maciejko.swoosh.R
 
 class WelcomeActivity : BaseActivity() {
 
